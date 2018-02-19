@@ -1,0 +1,15 @@
+C:\Users\Administrador\Dropbox\CSC\DESARROLLO DE SISTEMAS\REMITOS\REMITOS\bin\Debug\REMITOS.exe.config
+C:\Users\Administrador\Dropbox\CSC\DESARROLLO DE SISTEMAS\REMITOS\REMITOS\bin\Debug\REMITOS.exe
+C:\Users\Administrador\Dropbox\CSC\DESARROLLO DE SISTEMAS\REMITOS\REMITOS\bin\Debug\REMITOS.pdb
+C:\Users\Administrador\Dropbox\CSC\DESARROLLO DE SISTEMAS\REMITOS\REMITOS\obj\Debug\REMITOS.csprojResolveAssemblyReference.cache
+C:\Users\Administrador\Dropbox\CSC\DESARROLLO DE SISTEMAS\REMITOS\REMITOS\obj\Debug\REMITOS.exe
+C:\Users\Administrador\Dropbox\CSC\DESARROLLO DE SISTEMAS\REMITOS\REMITOS\obj\Debug\REMITOS.pdb
+C:\Users\Maximiliano Bisurgi\Dropbox\CSC\DESARROLLO DE SISTEMAS\REMITOS\REMITOS\bin\Debug\REMITOS.exe.config
+C:\Users\Maximiliano Bisurgi\Dropbox\CSC\DESARROLLO DE SISTEMAS\REMITOS\REMITOS\obj\Debug\REMITOS.exe
+C:\Users\Maximiliano Bisurgi\Dropbox\CSC\DESARROLLO DE SISTEMAS\REMITOS\REMITOS\obj\Debug\REMITOS.pdb
+C:\Users\Maximiliano Bisurgi\Dropbox\CSC\DESARROLLO DE SISTEMAS\REMITOS\REMITOS\bin\Debug\REMITOS.exe
+C:\Users\Maximiliano Bisurgi\Dropbox\CSC\DESARROLLO DE SISTEMAS\REMITOS\REMITOS\bin\Debug\REMITOS.pdb
+C:\Users\Maximiliano Bisurgi\Dropbox\CSC\DESARROLLO DE SISTEMAS\REMITOS\REMITOS\bin\Debug\REMITOS.exe.manifest
+C:\Users\Maximiliano Bisurgi\Dropbox\CSC\DESARROLLO DE SISTEMAS\REMITOS\REMITOS\bin\Debug\REMITOS.application
+C:\Users\Maximiliano Bisurgi\Dropbox\CSC\DESARROLLO DE SISTEMAS\REMITOS\REMITOS\obj\Debug\REMITOS.exe.manifest
+C:\Users\Maximiliano Bisurgi\Dropbox\CSC\DESARROLLO DE SISTEMAS\REMITOS\REMITOS\obj\Debug\REMITOS.application
